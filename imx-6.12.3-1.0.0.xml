@@ -23,7 +23,7 @@
 
   <project name="meta-openembedded"       remote="oe"        path="sources/meta-openembedded"   revision="5d54a52fbeb69dba7b8ae11db98af4813951fa61" upstream="styhead"/>
   <project name="meta-clang"              remote="kraj"      path="sources/meta-clang"          revision="c709a5196f1e8654425b43b478064395386c36d4" upstream="styhead"/>
-  <project name="meta-qt6"                remote="qt"        path="sources/meta-qt6"            revision="f4ef1331f0cc49bd4aa1e1aace6dc7f000b9651e" upstream="6.6.3" />
+  <project name="meta-qt6"                remote="qt"        path="sources/meta-qt6"            revision="d316ceaab0b9295e09d04b42fce9b6e36754896e" upstream="6.6.3" />
   <project name="meta-browser"            remote="ossystems" path="sources/meta-browser"        revision="f988d616d37ddf160d3d747ed54d0a66d549f499" />
   <project name="meta-timesys"            remote="timesys"   path="sources/meta-timesys"        revision="4d2a0309ba6b78d4ad877cf53670de87db7d5fb9" upstream="master"/>
 
